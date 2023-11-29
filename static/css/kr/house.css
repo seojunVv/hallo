@@ -1,13 +1,13 @@
 .Poseidon{
     width: 50vw;
-    height: 46vh;
+    height: 50vh;
     border: 0;
     background-color: cornflowerblue;
     font-family: 'Orbit', sans-serif;
 }
 .Athena{
     width: 50vw;
-    height: 46vh;
+    height: 50vh;
     position: absolute;
     border: 0;
     background-color: orangered;
@@ -15,27 +15,18 @@
 }
 .Apollo{
     width: 50vw;
-    height: 46vh;
+    height: 50vh;
     border: 0;
     background-color: rgba(255, 255, 0, 0.668);
     font-family: 'Orbit', sans-serif;
 }
 .Artemis{
     width: 50vw;
-    height: 46vh;
+    height: 50vh;
     position: absolute;
     border: 0;
     background-color: yellowgreen;
     font-family: 'Orbit', sans-serif;
-}
-.choose{
-    text-align: center;
-    width:100vw;
-    height:5vh;
-    font-size: 2rem;
-    font-family: 'Cute Font', cursive;
-    border: 0;
-    background-color: transparent;
 }
 .myhouse{
   background-color: cornsilk;
